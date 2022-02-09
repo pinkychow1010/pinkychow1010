@@ -2,7 +2,7 @@
 
 I am a Hongkonger passionate about **Earth Observation** and its possibilities for a common sustainable future. I am also a geoscientist 🌏 working on [Open Data Cube](https://datacube.remote-sensing.org/) in West Africa and currently studying in **Würzburg, Germany** for [Applied Earth Observation and Geoanalysis](http://eagle-science.org/about/).
 
-🌱 The remote sensing data I have been using includes **GRACE, Landsat, SRTM, and Sentinel-1,2, and 5**, using mostly the following tools:
+🌱 The remote sensing data I have been using includes **GRACE, Landsat, MODIS, VIIRS, SRTM, and Sentinel-1,2, and 5**, using mostly the following tools:
 
 * **Google Earth Engine**
 * **GIS**
