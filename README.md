@@ -15,7 +15,7 @@ Please visit my repositories [here](https://github.com/pinkychow1010?tab=reposit
 
 # 📫 Do you want to know more about me?
 
-I invite you to visit my [LinkedIn](https://www.linkedin.com/in/ka-hei-chow-231345188/) and to contact me! You can also visit my personal [website](https://61220086de714.site123.me/).
+I invite you to visit my [LinkedIn](https://www.linkedin.com/in/ka-hei-chow-231345188/) and to contact me! You can also visit my personal [website](https://pinkychow1010.github.io/).
 
 <!--
 **pinkychow1010/pinkychow1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
