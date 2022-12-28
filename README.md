@@ -9,7 +9,7 @@ I am a young geoscientist, a climate change consultant from World Bank (Poverty 
 
 My research interests include disaster risk and cryosphere dynamics. More specifically, I am interested in applying remote sensing, geospatial data and machine learning to study **how climate change impacts global communities in the present and future**. I have also worked on [Open Data Cube project](https://datacube.remote-sensing.org/) in West Africa and currently studying in Würzburg, Germany for [Applied Earth Observation and Geoanalysis](http://eagle-science.org/about/).
 
-🌱 The remote sensing data I have been using includes Landsat, MODIS, AVHRR, MODIS, VIIRS, SRTM, GRACE, Sentinel-1,2, and 5, using mostly the following tools:
+🛰️ The remote sensing data I have been using includes Landsat, MODIS, AVHRR, MODIS, VIIRS, SRTM, GRACE, Sentinel-1,2, and 5, using mostly the following tools:
 
 * [**Python/ GDAL**](https://pinkychow1010.github.io/data-science.html)
 * [**Google Earth Engine**](https://pinkychow1010.users.earthengine.app/)
@@ -18,7 +18,7 @@ My research interests include disaster risk and cryosphere dynamics. More specif
 
 ***
 
-If you want to understand more what I did, you can visit [my repositories](https://github.com/pinkychow1010?tab=repositories) or [my website](https://pinkychow1010.github.io/).
+🌱 If you want to understand more what I did, you can visit [**my repositories**](https://github.com/pinkychow1010?tab=repositories) or [**my website**](https://pinkychow1010.github.io/).
 
 
 <!--
