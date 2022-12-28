@@ -18,7 +18,7 @@ My research interests include disaster risk and cryosphere dynamics. More specif
 
 ***
 
-🌱 If you want to understand more what I did, you can visit [**my repositories**](https://github.com/pinkychow1010?tab=repositories) or [**my website**](https://pinkychow1010.github.io/).
+🌱 If you want to understand more about what I did, you can visit [**my repositories**](https://github.com/pinkychow1010?tab=repositories) or [**website**](https://pinkychow1010.github.io/).
 
 
 <!--
