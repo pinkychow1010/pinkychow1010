@@ -1,21 +1,23 @@
-# 😃 Hi, I'm Ka Hei.
+# 🌏⛰️ Ka-Hei Chow
 
-I am a Hongkonger passionate about **Earth Observation** and its possibilities for a common sustainable future. I am also a geoscientist 🌏 working on [Open Data Cube](https://datacube.remote-sensing.org/) in West Africa and currently studying in **Würzburg, Germany** for [Applied Earth Observation and Geoanalysis](http://eagle-science.org/about/).
+[![GitHub Badge](https://img.shields.io/github/followers/pinkychow1010?style=social)](https://github.com/pinkychow1010?tab=followers)
+[![Twitter Badge](https://img.shields.io/twitter/follow/pinkychow1010?style=social)](https://twitter.com/pinkychow1010)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/pinkychow1010)
+[![Website Badge](https://img.shields.io/badge/My-Website-orange)](https://pinkychow1010.github.io/)
 
-🌱 The remote sensing data I have been using includes **GRACE, Landsat, MODIS, VIIRS, SRTM, and Sentinel-1,2, and 5**, using mostly the following tools:
+I am a young geoscientist, a climate change consultant from World Bank (Poverty Reduction and Equity Group) and a Hongkonger passionate about **Earth Observation, Climate Risk** and **Sustainabiliy**. My research interests include disaster risk and cryosphere dynamics. More specifically, I am interested in applying remote sensing, geospatial data and machine learning to study **how climate change impacts global communities in the present and future**. I have also worked on [Open Data Cube project](https://datacube.remote-sensing.org/) in West Africa and currently studying in Würzburg, Germany for [Applied Earth Observation and Geoanalysis](http://eagle-science.org/about/).
 
+🌱 The remote sensing data I have been using includes Landsat, MODIS, AVHRR, MODIS, VIIRS, SRTM, GRACE, Sentinel-1,2, and 5, using mostly the following tools:
+
+* **Python/ GDAL**
 * **Google Earth Engine**
 * **GIS**
-* **Python**
 * **R**
 
 # :neckbeard: My Repositories
 
-Please visit my repositories [here](https://github.com/pinkychow1010?tab=repositories).
+You can visit my repositories [here](https://github.com/pinkychow1010?tab=repositories).
 
-# 📫 Do you want to know more about me?
-
-I invite you to visit my [LinkedIn](https://www.linkedin.com/in/ka-hei-chow-231345188/) and to contact me! You can also visit my personal [website](https://pinkychow1010.github.io/).
 
 <!--
 **pinkychow1010/pinkychow1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
