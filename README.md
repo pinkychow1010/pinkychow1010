@@ -32,6 +32,15 @@ My research interests include disaster risk and cryosphere dynamics. More specif
 
 🌱 If you want to understand more about what I did, you can visit [**my repositories**](https://github.com/pinkychow1010?tab=repositories) or [**website**](https://pinkychow1010.github.io/).
 
+<br>
+
+<h3 align="left">My GitHub Stats:</h3> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinkychow1010&show_icons=true&locale=en&layout=compact" alt="" width="400" height="150"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkychow1010&show_icons=true&locale=en&hide=contribs,prs" alt="" width="400"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinkychow1010&" alt="" width="400"/></p>
+
+
 
 <!--
 **pinkychow1010/pinkychow1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
