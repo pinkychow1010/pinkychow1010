@@ -1,4 +1,4 @@
-# 🌏⛰️ Ka-Hei Chow
+# Ka Hei, Chow
 
 [![GitHub Badge](https://img.shields.io/github/followers/pinkychow1010?style=social)](https://github.com/pinkychow1010?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/pinkychow1010?style=social)](https://twitter.com/pinkychow1010)
