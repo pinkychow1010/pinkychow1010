@@ -35,10 +35,10 @@ My research interests include disaster risk and cryosphere dynamics. More specif
 <br>
 
 <h3 align="left">My GitHub Stats:</h3> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinkychow1010&show_icons=true&locale=en&layout=compact" alt="" width="400" height="150"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkychow1010&show_icons=true&locale=en&hide=contribs,prs" alt="" width="400"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinkychow1010&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact" alt="" width="400" height="150"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkychow1010&size_weight=0&count_weight=1&show_icons=true&locale=en&hide=contribs,prs" alt="" width="400"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinkychow1010&" alt="" width="400"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinkychow1010&size_weight=0&count_weight=1" alt="" width="400"/></p>
 
 
 
