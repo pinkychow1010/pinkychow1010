@@ -7,7 +7,7 @@
 
 [![banner](https://www.eutelsat.com/files/Background/banner-satellite1.jpg)](https://pinkychow1010.github.io/)
 
-I am a young geoscientist, a climate change consultant from World Bank (Poverty Reduction and Equity Group) and a Hongkonger passionate about **Earth Observation, Climate Risk** and **Sustainabiliy**. I am currently working on mapping social vulnerability of Pakistan using satellite data.
+I am a geoscientist, a former climate change consultant from World Bank (Poverty Reduction and Equity Group) and a Hongkonger passionate about **Earth Observation, Climate Risk** and **Sustainabiliy**. I am currently working on mapping social vulnerability of Pakistan using satellite data.
 
 My research interests include disaster risk and cryosphere dynamics. More specifically, I am interested in applying remote sensing, geospatial data and machine learning to study **how climate change impacts global communities in the present and future**. I have also worked on [Open Data Cube project](https://datacube.remote-sensing.org/) in West Africa and currently studying in Würzburg, Germany for [Applied Earth Observation and Geoanalysis](http://eagle-science.org/about/).
 
