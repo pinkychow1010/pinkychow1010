@@ -7,11 +7,9 @@
 
 [![banner](https://www.eutelsat.com/files/Background/banner-satellite1.jpg)](https://pinkychow1010.github.io/)
 
-I am a remote sensing professional, a data scientist, and a Hongkonger passionate about **Earth Observation**, **Climate Risk**, and **Sustainability**. Formerly as a climate risk consultant at the World Bank (Poverty Reduction and Equity Group), I worked on mapping heat hazard and vulnerability of Pakistan using satellite data.
+I am a remote sensing professional, data scientist, and Hongkonger passionate about **Earth Observation**, **Climate Risk**, and **Sustainability**. Formerly a climate risk consultant at the World Bank Group, I worked on mapping heat hazards and vulnerabilities in Pakistan using satellite data. Currently, I am a geospatial data engineer working on accelerating nature-based solution projects.
 
-My research interests include disaster risk and cryosphere dynamics. More specifically, I am interested in applying remote sensing, geospatial data, and machine learning to study **how climate change impacts global communities in the present and future**. I have also contributed to the [Open Data Cube project](https://datacube.remote-sensing.org/) in West Africa and am currently studying in Würzburg, Germany for [Applied Earth Observation and Geoanalysis](http://eagle-science.org/about/).
-
-🛰️ The remote sensing data I have been using includes Landsat, MODIS, AVHRR, MODIS, VIIRS, SRTM, GRACE, Sentinel-1,2, and 5, using mostly the following tools:
+My research interests include disaster risk and cryosphere dynamics. More specifically, I am interested in applying remote sensing, geospatial data, and machine learning to study **how climate change impacts global communities in the present and future**. 🛰️ The remote sensing data I have been using includes Landsat, MODIS, AVHRR, VIIRS, SRTM, GRACE, and Sentinel-1, 2, and 5, using mostly the following tools:
 
 * [**Python/ GDAL**](https://pinkychow1010.github.io/data-science.html)
 * [**Google Earth Engine**](https://pinkychow1010.users.earthengine.app/)
